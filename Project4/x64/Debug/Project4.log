@@ -1,0 +1,9 @@
+﻿  Main.cpp
+  Functional.cpp
+  Создание кода...
+C:\Users\Sergo\Desktop\бакалавриат\1 курс\2 семестр\програмирование\коды\repos111\Курсовая работа\Project4\Functional.h(2,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\Sergo\Desktop\бакалавриат\1 курс\2 семестр\програмирование\коды\repos111\Курсовая работа\Project4\Functional.h(2,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "Functional.cpp")
+  
